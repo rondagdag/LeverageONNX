@@ -1,0 +1,55 @@
+ML.NET0"machinelearning.dotnet:§
+f
+yearsExperienceFeaturesFeatureVectorizer"FeatureVectorizer*
+inputdimensionsB :
+ai.onnx.ml
+š
+FeaturesScoreLinearRegressor"LinearRegressor*
+post_transform"NONE *
+targets *
+coefficients:7\F *
+
+intercepts:£úÆF :
+ai.onnx.ml
+7
+yearsExperienceyearsExperience0Identity"Identity
+&
+salarysalary0	Identity0"Identity
+*
+Features	Features0	Identity1"Identity
+$
+ScoreScore0	Identity2"IdentitymodelZ!
+yearsExperience
+
+
+Z
+salary
+
+
+b"
+yearsExperience0
+
+
+b
+salary0
+
+
+b
+	Features0
+
+
+b
+Score0
+
+
+j
+Features
+
+
+j
+Score
+
+
+B
+
+ai.onnx.mlB	
