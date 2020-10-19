@@ -4,7 +4,7 @@
   "description": "simplenodeonnxruntime",
   "main": "app.js",
   "author": {
-    "name": ""
+    "name": "Ron Dagdag"
   },
   "dependencies": {
     "onnxruntime": "^1.5.2"
