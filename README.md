@@ -7,5 +7,12 @@ Have you ever wanted to make your apps “smarter”? This session will cover wh
 
 The sample app is using ML.NET to generate ONNX file and use it for infencing
 
-Try it out in Jupyter Notebook with C# Kernel.
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rondagdag/LeverageONNX/master?filepath=ExportToOnnx.ipynb)
+There are 2 notebooks
+* ExportToOnnx.ipynb - sample Exporting a ML.NET model to ONNX
+* onnxinference.ipynb - sample Use ONNX runtime for inferencing  in python
+
+Onnx-node folder contains a sample nodejs project that uses onnx runtime
+
+Try it out in Jupyter Notebook with C# Kernel. Click on my binder button below
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/rondagdag/LeverageONNX/master)
+
