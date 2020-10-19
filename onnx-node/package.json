@@ -1,0 +1,12 @@
+{
+  "name": "simplenodeonnxruntime",
+  "version": "0.0.0",
+  "description": "simplenodeonnxruntime",
+  "main": "app.js",
+  "author": {
+    "name": ""
+  },
+  "dependencies": {
+    "onnxruntime": "^1.5.2"
+  }
+}
