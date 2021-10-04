@@ -1,12 +1,10 @@
 {
-  "name": "simplenodeonnxruntime",
-  "version": "0.0.0",
-  "description": "simplenodeonnxruntime",
-  "main": "app.js",
-  "author": {
-    "name": "Ron Dagdag"
-  },
+  "name": "quick-start_onnxruntime-node",
+  "private": true,
+  "version": "1.0.0",
+  "description": "This example is a demonstration of basic usage of ONNX Runtime Node.js binding.",
+  "main": "index.js",
   "dependencies": {
-    "onnxruntime": "^1.5.2"
+    "onnxruntime-node": "^1.8.0"
   }
 }
